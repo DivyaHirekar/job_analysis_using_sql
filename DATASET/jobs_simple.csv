@@ -1,0 +1,11 @@
+job_id,title,location,pay_period,min_salary,max_salary,work_type,remote_allowed
+1,Data Analyst,Bangalore,YEARLY,500000,800000,FULL_TIME,0
+2,Junior Data Analyst,Hyderabad,YEARLY,400000,600000,FULL_TIME,0
+3,SQL Developer,Pune,YEARLY,600000,900000,FULL_TIME,0
+4,Business Analyst,Mumbai,YEARLY,700000,1000000,FULL_TIME,0
+5,Data Analyst,Remote,YEARLY,800000,1200000,FULL_TIME,1
+6,Data Engineer,Bangalore,YEARLY,1000000,1500000,FULL_TIME,0
+7,Reporting Analyst,Chennai,YEARLY,450000,650000,FULL_TIME,0
+8,Product Analyst,Remote,YEARLY,900000,1300000,FULL_TIME,1
+9,SQL Analyst,Delhi,YEARLY,550000,750000,CONTRACT,0
+10,Junior SQL Analyst,Pune,YEARLY,350000,500000,FULL_TIME,0
